@@ -14,5 +14,4 @@ Determinar si el número es impar o de lo contrario determinar ciertas condicion
        * Perfect!
  4. FIN
 
-
 ![alt]()
