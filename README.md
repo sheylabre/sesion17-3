@@ -8,10 +8,10 @@ Determinar si el número es impar o de lo contrario determinar ciertas condicion
     + Sí Odd!
       * numero >2 && numero <5
       * Sí Good!
-      * numero>6 && numero <=20
-      * Great!
-      * numero>=20
-      * Perfect!
+        * numero>6 && numero <=20
+        * Great!
+        * numero>=20
+        * Perfect!
  3. FIN
 
 
