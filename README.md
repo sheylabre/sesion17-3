@@ -11,7 +11,7 @@ Determinar si el número es impar o de lo contrario determinar ciertas condicion
       * numero>6 && numero <=20
         * Great!
         * numero>=20
-       * Perfect!
+     * Perfect!
  4. FIN
 
 ![alt]()
