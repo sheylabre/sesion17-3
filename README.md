@@ -4,7 +4,7 @@ Determinar si el número es impar o de lo contrario determinar ciertas condicion
 
 1. INICIO
 2. ingrese numero
-3 .numero %2 != 0
+3. numero %2 != 0
     + Sí Odd!
     + numero >2 && numero <5
       * Sí Good!
